@@ -1,6 +1,6 @@
 {
   "name": "@maguas/jsnote",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput",
@@ -21,9 +21,9 @@
     "@maguastupaguas/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@maguastupaguas/local-api": "^1.0.0",
-    "commander": "^7.1.0",
+    "@maguastupaguas/local-api": "^0.0.1",
     "@types/node": "^14.14.31",
+    "commander": "^7.1.0",
     "esbuild": "0.8.26",
     "typescript": "^4.2.2"
   }
